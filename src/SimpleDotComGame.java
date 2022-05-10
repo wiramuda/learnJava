@@ -1,5 +1,9 @@
 public class SimpleDotComGame {
-    public static void main(String[] args) {
+    void setLocationsCells(int[] locations) {
 
+    }
+
+    String checkYourSelf(String userGuest) {
+        return "";
     }
 }
