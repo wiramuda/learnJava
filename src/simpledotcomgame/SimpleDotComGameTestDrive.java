@@ -1,6 +1,8 @@
+package simpledotcomgame;
+
 public class SimpleDotComGameTestDrive {
     public static void main (String[] args) {
-        SimpleDotComGame dot = new SimpleDotComGame();
+        SimpleDotCom dot = new SimpleDotCom();
         int[] locations = {2,3,4};
         dot.setLocationsCells(locations);
 
